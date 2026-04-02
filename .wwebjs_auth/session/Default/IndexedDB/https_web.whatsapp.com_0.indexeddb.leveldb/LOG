@@ -1,0 +1,32 @@
+2026/04/02-09:39:02.749 12bc Creating DB C:\Users\DELL\Desktop\sucess mesage\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/04/02-09:39:02.758 12bc Reusing MANIFEST C:\Users\DELL\Desktop\sucess mesage\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/02-09:39:21.434 6c8 Level-0 table #5: started
+2026/04/02-09:39:21.478 6c8 Level-0 table #5: 999045 bytes OK
+2026/04/02-09:39:21.483 6c8 Delete type=0 #3
+2026/04/02-09:39:23.032 6c8 Level-0 table #7: started
+2026/04/02-09:39:23.063 6c8 Level-0 table #7: 1039338 bytes OK
+2026/04/02-09:39:23.068 6c8 Delete type=0 #4
+2026/04/02-09:39:23.071 6c8 Compacting 1@1 + 1@2 files
+2026/04/02-09:39:23.116 6c8 Generated table #8@1: 23661 keys, 874292 bytes
+2026/04/02-09:39:23.116 6c8 Compacted 1@1 + 1@2 files => 874292 bytes
+2026/04/02-09:39:23.119 6c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/02-09:39:23.120 6c8 Delete type=2 #5
+2026/04/02-09:39:23.120 6c8 Delete type=2 #7
+2026/04/02-09:40:06.306 6c8 Level-0 table #10: started
+2026/04/02-09:40:06.348 6c8 Level-0 table #10: 1054648 bytes OK
+2026/04/02-09:40:06.353 6c8 Delete type=0 #6
+2026/04/02-09:40:06.356 12bc Compacting 1@1 + 1@2 files
+2026/04/02-09:40:06.443 12bc Generated table #11@1: 32915 keys, 1344220 bytes
+2026/04/02-09:40:06.443 12bc Compacted 1@1 + 1@2 files => 1344220 bytes
+2026/04/02-09:40:06.445 12bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/02-09:40:06.446 12bc Delete type=2 #8
+2026/04/02-09:40:06.446 12bc Delete type=2 #10
+2026/04/02-09:44:26.473 6c8 Level-0 table #13: started
+2026/04/02-09:44:26.512 6c8 Level-0 table #13: 1045361 bytes OK
+2026/04/02-09:44:26.515 6c8 Delete type=0 #9
+2026/04/02-09:44:26.886 6c8 Compacting 1@1 + 1@2 files
+2026/04/02-09:44:27.002 6c8 Generated table #14@1: 41215 keys, 1673175 bytes
+2026/04/02-09:44:27.002 6c8 Compacted 1@1 + 1@2 files => 1673175 bytes
+2026/04/02-09:44:27.003 6c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/02-09:44:27.004 6c8 Delete type=2 #11
+2026/04/02-09:44:27.004 6c8 Delete type=2 #13
